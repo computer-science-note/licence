@@ -21,7 +21,8 @@ XP는 수시로 발생하는 고객의 요구사항에 유연하게 대응하기
 
 ## 2. XP 개발 프로세스
 
-![XP 개발 프로세스](https://blog.kakaocdn.net/dna/bRUGIE/btsIo9gNH7e/AAAAAAAAAAAAAAAAAAAAAGsR3Ft9zuhchTG2Q2o-kOSDSAsn8wqJDhmrQMlF83P9/img.png)
+![XP 개발 프로세스](https://blog.kakaocdn.net/dna/bRUGIE/btsIo9gNH7e/AAAAAAAAAAAAAAAAAAAAAGsR3Ft9zuhchTG2Q2o-kOSDSAsn8wqJDhmrQMlF83P9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1753973999&allow_ip=&allow_referer=&signature=YRIATRd8OnPSyWWVO6skDOB10RY%3D)
+
 
 ### ✅ 사용자 스토리 (User Story)
 
